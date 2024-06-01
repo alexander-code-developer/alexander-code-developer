@@ -4,6 +4,8 @@
 <img src="https://images.alphacoders.com/121/thumb-1920-1218911.jpg">
 
 [![GitHub followers](https://img.shields.io/github/followers/alexander-code-developer?style=social)](https://github.com/alexander-code-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/alexander-rivera-6289382a2/)
+[![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:alexander.code.developer@gmail.com)
 
 ## About Me
 
@@ -13,7 +15,20 @@
 - 🎸 Passionate guitarist with a deep love for music and creativity.
 - 🧑‍🏫 Creator of the [official website of cetis 091.](https://www.cetis91.edu.mx/)
 
-  <br>
+
+## Technological Stack
+### Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" style="margin: 0px 2px;">
+
+### Backend
+<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" alt="Python" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" style="margin: 0px 2px;">
+
+### Databases
+<img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white" alt="SQL" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 0px 2px;">
+
+### Mobile Development
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" style="margin: 0px 2px;"> ![Medium level](https://img.shields.io/badge/Medium_level-red?style=flat-square) <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" style="margin: 0px 2px;"> ![Medium level](https://img.shields.io/badge/Medium_level-red?style=flat-square)
+
 
 
 ## Best *projects*
@@ -25,7 +40,7 @@
 <a href="https://www.cetis91.edu.mx/" target="_blank"><img src="https://www.cetis91.edu.mx/view/public/Images/OIP.jpeg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/alexander-code-developer/Plantilla-institucional" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.cetis91.edu.mx/" target="_blank">
  <img src="https://img.shields.io/badge/-website-red?style=for-the-badge&color=red" alt="Sitio Web">
