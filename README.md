@@ -1,11 +1,13 @@
 <div align="center">
-<h1 align="center">Hi, I`m <a href="#">Alexander code</a> 👋</h1>
+<h1 align="center">Hi, I`m <a href="#">Alexander code</a>  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
 </div>
-<img src="https://images.alphacoders.com/121/thumb-1920-1218911.jpg">
+<img src="https://images.alphacoders.com/121/thumb-1920-1218911.jpg"  style="width: 100%; height: 370px; object-fit: cover;">
 
 [![GitHub followers](https://img.shields.io/github/followers/alexander-code-developer?style=social)](https://github.com/alexander-code-developer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/alexander-rivera-6289382a2/)
 [![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:alexander.code.developer@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-white?logo=whatsapp)](https://wa.me/7732003120)
+
 
 ## About Me
 
@@ -17,17 +19,33 @@
 
 
 ## Technological Stack
-### Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" style="margin: 0px 2px;">
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" style="margin: 0px 2px; ">
+</div>
 
-### Backend
-<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" alt="Python" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" style="margin: 0px 2px;">
-
-### Databases
-<img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white" alt="SQL" style="margin: 0px 2px;"><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 0px 2px;">
-
-### Mobile Development
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" style="margin: 0px 2px;"> ![Medium level](https://img.shields.io/badge/Medium_level-red?style=flat-square) <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" style="margin: 0px 2px;"> ![Medium level](https://img.shields.io/badge/Medium_level-red?style=flat-square)
 
 
 
@@ -63,3 +81,17 @@
 </a>
 </p>
 
+<div align="center">
+  <a href="#">
+    <img height="150em" src="https://streak-stats.demolab.com/?user=alexander-code-developer&count_private=true&theme=blue-green&title_color=00b3ff" alt="Alexander's current streak">
+  </a>
+</div>
+
+
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+
+  
+</p>
