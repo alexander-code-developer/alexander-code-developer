@@ -8,7 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:alexander.code.developer@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-white?logo=whatsapp)](https://wa.me/7732003120)
 
-
 ## About Me
 
 - ⭐ Github Star ⭐
@@ -17,11 +16,12 @@
 - 🎸 Passionate guitarist with a deep love for music and creativity.
 - 🧑‍🏫 Creator of the [official website of cetis 091.](https://www.cetis91.edu.mx/)
 
-
 ## Technological Stack
+
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" style="margin: 0px 2px; ">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" style="margin: 0px 2px; ">
+  <img src="https://img.shields.io/badge/Tailwind-E10098?logo=tailwindcss&logoColor=white" style="margin: 0px 2px;">
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" style="margin: 0px 2px; ">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" style="margin: 0px 2px; ">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" style="margin: 0px 2px; ">
@@ -44,12 +44,11 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" style="margin: 0px 2px; ">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" style="margin: 0px 2px; ">
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" style="margin: 0px 2px; ">
+
 </div>
 
+## Best _projects_
 
-
-
-## Best *projects*
 <table>
 <tr>
 <td width="50%">
@@ -68,9 +67,23 @@
 </div>
                                                                                       
 </td>
+<td width="50%">
+<h3 align="center">Basic Clone WhatsApp</h3>
+<div align="center">
+<a href="#" target="_blank"><img src="https://github.com/alexander-code-developer/Clone-WhatsApp/blob/main/src/assets/image-dashboard.png?raw=true" width="400" alt="Imagen del WhatsApp clon"></a>
+<p>
+<a href="https://github.com/alexander-code-developer/Clone-WhatsApp/tree/main" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>I was the creator and designer of the CETIS 91 website. Using modern technologies like HTML, CSS, and JavaScript, I have developed a unique online experience for our educational institution. Explore the site to discover how I have brought CETIS 91's vision to life in the digital world. (The code only includes the base template, sliders, and other elements separately.) If you desire something similar, feel free to contact me.</p>
+</div>
+                                                                                      
+</td>
 </tr>
+
 </table>
-<br> 
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -87,11 +100,7 @@
   </a>
 </div>
 
-
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-
-  
 </p>
