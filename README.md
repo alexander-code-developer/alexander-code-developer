@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I`m <a href="#">Alexander code</a>  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
 </div>
-<img src="./avatar2.jpg" style="width: 100%; height: 370px; object-fit: cover;" />
+<img src="./Avata2.png" style="width: 90%; height: 450px; object-fit: cover;" />
 
 
 [![GitHub followers](https://img.shields.io/github/followers/alexander-code-developer?style=social)](https://github.com/alexander-code-developer)
