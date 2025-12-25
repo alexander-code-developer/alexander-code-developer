@@ -7,7 +7,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/alexander-code-developer?style=social)](https://github.com/alexander-code-developer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/alexander-rivera-6289382a2/)
 [![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:alexander.code.developer@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-white?logo=whatsapp)](https://wa.me/7732003120)
 
 ## About Me
 
