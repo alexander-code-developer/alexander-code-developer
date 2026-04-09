@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:alexander.code.developer@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-avexly.org-black?style=flat&logo=target&logoColor=white)](https://avexly.org)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/527732003120)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@AlexCode29)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@AlexCode29)
 
 ## About Me
 
